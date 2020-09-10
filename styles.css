@@ -6,3 +6,9 @@ h2{
 	font-family: 'Cookie', cursive;
 	font-size: 3em;
 }
+p{
+	border:	2px solid #ffdead;
+}
+img{
+	align: center;
+}
